@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/ca092/Documents/9no Semestre/SW/Practicas/Practica5/motos.xsl"?>
+<motos>
+  <moto>
+  <nombre> Harley Davidson</nombre>
+  <modelo>FatBoy</modelo>
+</moto>
+<moto>
+  <nombre>Triumph</nombre>
+  <modelo>Scrambler 1200XC</modelo>
+</moto>
+<moto>
+<nombre>Italika</nombre>
+<modelo>200Z</modelo>
+</moto>
+</motos>
